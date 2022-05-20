@@ -13,10 +13,16 @@ namespace FileHandling
         static void Main(string[] args)
         {
             FilehandlingDemo demo = new FilehandlingDemo();
-            demo.UserModule();
-            demo.CategoryModule();
-            demo.PurchaseandSalesModule();
-            demo.ProductModule();
+           // demo.UserModule();
+           // demo.CategoryModule();
+           // demo.PurchaseandSalesModule();
+           // demo.ProductModule();
+           // demo.NetworkModule();
+            //demo.ReadFile();
+            demo.Succes();
+            demo.Failed();
+            demo.Missed();
+            demo.Dailled();
             Console.ReadKey();
 
         }
