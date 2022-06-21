@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFramework.Data", "EntityFramework.Data\EntityFramework.Data.csproj", "{7EA4389A-79D9-48CA-8328-A5BB7609B919}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{573788D7-D0EE-42DC-A718-861145A1AACF}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkLLearning", "EntityFrameworkLLearning\EntityFrameworkLLearning.csproj", "{CAF5208D-6232-4CEB-8790-43CA50847464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EA4389A-79D9-48CA-8328-A5BB7609B919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA4389A-79D9-48CA-8328-A5BB7609B919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EA4389A-79D9-48CA-8328-A5BB7609B919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EA4389A-79D9-48CA-8328-A5BB7609B919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAF5208D-6232-4CEB-8790-43CA50847464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF5208D-6232-4CEB-8790-43CA50847464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF5208D-6232-4CEB-8790-43CA50847464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF5208D-6232-4CEB-8790-43CA50847464}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33E373FC-54FC-420F-8700-489A8368F252}
+	EndGlobalSection
+EndGlobal
